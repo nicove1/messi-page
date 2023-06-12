@@ -1,0 +1,80 @@
+body {
+    font-family: Bebas; 
+    background-color: #5F61E2; 
+  }
+  
+  #main {
+    background-color: #F0FFFF; 
+    padding: 20px; 
+  }
+  
+  #title {
+    text-align: center; 
+    font-size: 40px; 
+    padding-top: 20px;
+  }
+  
+  #description {
+    text-align: center; 
+  }
+  
+  #img-div {
+    background-color: #5F61E2;
+    padding: 10px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+  }
+  
+  img {
+    max-width: 100%; 
+  }
+  
+  #image {
+    display: block; 
+  }
+  
+  #img-caption {
+    text-align: center; 
+    color: white; 
+    padding-top: 6
+  }
+  
+  #subtitle {
+    text-align: center; 
+    
+  }
+  #tribute-info {
+    max-width: 100%; 
+    display: flex; 
+    justify-content: center; 
+    flex-direction: column; 
+    align-items: center;  
+  }
+  
+  
+  ul{
+    max-width: 550px;
+    }
+  
+    li {
+      margin: 25px; 
+      text-align: justify;
+    }
+  
+  #quote {
+    text-align: center; 
+    font-style: italic; 
+    margin: 20px; 
+  }
+  
+  #footer{
+    text-align: center; 
+    margin: 60px; 
+    
+  }
+  #tribute-link {
+    text-decoration: none; 
+    color: #5F61E2; 
+  }
